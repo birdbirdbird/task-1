@@ -1,0 +1,10 @@
+
+.text {
+    display: flex;
+    justify-content: inherit;
+    flex-flow: wrap;
+}
+
+/* .text:last-child .text__word {
+    margin-bottom: 0;
+} */

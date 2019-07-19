@@ -1,0 +1,15 @@
+.text_view_primary .text__word {
+    background-color:  var(--color-typo-primary);
+}
+
+.text_view_secondary .text__word {
+    background-color:  var(--color-typo-secondary);
+}
+
+.text_view_ghost .text__word {
+    background-color:  var(--color-typo-ghost);
+}
+
+.text_view_link .text__word {
+    background-color:  var(--color-typo-link);
+}

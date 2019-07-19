@@ -1,0 +1,10 @@
+.theme_color_project-warning {
+    --color-bg-default:#FF9900;
+    --color-bg-accent: #FFFFFF;
+    --color-bg-border: #FFFFFF;
+
+    --color-typo-primary: #FFFFFF;
+    --color-typo-secondary: rgba(255, 255, 255, 0.6);
+    --color-typo-ghost: rgba(255, 255, 255, 0.3); 
+    --color-typo-link: #FFF;
+}

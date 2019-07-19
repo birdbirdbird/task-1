@@ -1,0 +1,25 @@
+.text_size_s .text__word_width_l {
+    height: 7px;
+    width: 100px;
+}
+
+.text_size_m .text__word_width_l {
+    height: 8px;
+    width: 114px;
+}
+
+.text_size_l .text__word_width_l {
+    height: 10px;
+    width: 138px;
+}
+
+.text_size_xl .text__word_width_l {
+    height: 11px;
+    width: 154px;
+}
+
+.text_size_xxl .text__word_width_l {
+    height: 13px;
+    width: 184px;
+}
+

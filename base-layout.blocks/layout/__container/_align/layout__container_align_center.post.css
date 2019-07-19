@@ -1,0 +1,5 @@
+.layout__container_align_center {
+    /* justify-content: center;
+    display: flex; */
+    margin: 0 auto;
+}

@@ -1,0 +1,18 @@
+.history__show {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.history__details {
+    display: flex;
+    align-items: center;
+}
+
+.e-accordion__more {
+   display: none;
+}
+
+.e-accordion__more_view_default {
+    display: inherit;
+}

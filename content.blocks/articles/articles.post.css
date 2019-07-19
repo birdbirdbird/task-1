@@ -1,0 +1,10 @@
+.articles__pic {
+    height: 120px;
+    width: 170px;
+    /* border: 3px solid var(--color-bg-border); */
+}
+
+.articles__content .text_view_primary {
+    margin-bottom: var(--space-xs)
+}
+

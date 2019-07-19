@@ -1,0 +1,12 @@
+.cover {
+    min-height: 408px;
+    /* border: 3px solid var(--color-bg-border); */
+}
+
+.cover__image {
+    height: 180px;
+    border: 3px solid var(--color-bg-border);
+}
+.cover__preview {
+    margin-bottom: var(--space-m)
+}

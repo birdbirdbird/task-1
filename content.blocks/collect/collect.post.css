@@ -1,0 +1,31 @@
+.collect {
+    min-height: 380px;
+    border: 3px solid var(--color-bg-border);
+}
+
+.collect__image {
+    height: 160px;
+    /* border: 3px solid var(--color-bg-border); */
+}
+
+.collect__progress {
+    height: 8px;
+    border-bottom: 3px solid var(--color-bg-border); 
+}
+
+.collect__done {
+    background-color: var(--color-typo-link);
+    height: 8px;
+}
+
+.collect__done_size_one-third {
+    width: 33%;
+}
+
+.collect__done_size_half {
+    width: 50%;
+}
+
+.collect__done_size_two-third {
+    width: 66%;
+}

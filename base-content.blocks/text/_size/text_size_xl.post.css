@@ -1,0 +1,8 @@
+.text_size_xl {
+    font-size: var(--size-typo-xl);
+    /* line-height: var(--line-height-typo-xl);  */
+}
+
+.text_size_xl .text__word {
+    margin-bottom: calc(var(--line-height-typo-xl) - var(--size-typo-xl)); 
+}

@@ -1,0 +1,8 @@
+.text_size_s {
+    font-size: var(--size-typo-s);
+    /* line-height: var(--line-height-typo-s); */
+}
+
+.text_size_s .text__word {
+    margin-bottom: calc(var(--line-height-typo-s) - var(--size-typo-s)); 
+}

@@ -1,0 +1,22 @@
+.event {
+    min-height: 333px;
+    /* border: 3px solid var(--color-bg-border); */
+}
+
+.event__preview {
+    display: flex;
+    margin-bottom: var(--space-xl);
+}
+
+.event__speaker {
+    margin-right: var(--space-xs);
+}
+
+.event__title {
+    margin-bottom: var(--space-s);
+}
+
+.event__description {
+    display: flex;
+    justify-content: inherit;
+}

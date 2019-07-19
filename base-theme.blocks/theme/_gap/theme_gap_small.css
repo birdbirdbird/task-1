@@ -1,0 +1,13 @@
+.theme_gap_small {
+    --gap: var(--space-xxxl);
+    
+    --col-gap-half: calc(var(--gap) * 0.5);
+    --col-gap-two-thirds: calc(var(--gap) * 0.66);
+    --col-gap-full: var(--gap);
+}
+
+@media screen and (max-width: 1144px) {
+    .theme_gap_small {
+        --gap: calc(var(--space-m) * 0.5);
+    }
+}

@@ -1,0 +1,12 @@
+.theme_color_project-inverse {
+    --color-bg-default:#000000;
+    --color-bg-accent: #FFFFFF;
+    --color-bg-border: #FFFFFF;
+
+    --color-typo-primary: #FFFFFF;
+    --color-typo-secondary: rgba(255, 255, 255, 0.6);
+    --color-typo-ghost: rgba(255, 255, 255, 0.3); 
+    --color-typo-link: #0070f0;
+
+    --image: url('../../../static/image-placeholder-primary.svg');
+}

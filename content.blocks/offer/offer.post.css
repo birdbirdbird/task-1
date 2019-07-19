@@ -1,0 +1,12 @@
+.offer {
+    min-height: 408px;
+    /* border: 3px solid var(--color-bg-border); */
+}
+
+.offer__name {
+    margin-bottom: var(--space-xs)
+}
+
+.offer__sale {
+    margin-bottom: var(--space-xs)
+}

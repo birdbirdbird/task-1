@@ -1,0 +1,13 @@
+.subscription {
+    min-height: 408px;
+    /* border: 3px solid var(--color-bg-border); */
+}
+
+.subscription__title .text {
+    margin-bottom: var(--space-xl)
+}
+
+.subscription__control .input {
+    margin-bottom: var(--space-s)
+}
+
